@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "name": "Documentaries",
+      "description": "Non-fiction factual programming",
+      "display_order": 1
+    },
+    {
+      "name": "Nature",
+      "description": "Wildlife and natural history programming",
+      "display_order": 2
+    },
+    {
+      "name": "Food & Culture",
+      "description": "Programming about food, culture and culinary arts",
+      "display_order": 3
+    },
+    {
+      "name": "Entertainment",
+      "description": "General entertainment programming",
+      "display_order": 4
+    }
+  ],
+  "categories": [
+    "documentary",
+    "drama",
+    "comedy",
+    "action",
+    "sci-fi",
+    "nature",
+    "cooking",
+    "reality",
+    "animation",
+    "family"
+  ],
+  "languages": [
+    {"code": "en", "name": "English"},
+    {"code": "es", "name": "Spanish"},
+    {"code": "fr", "name": "French"},
+    {"code": "de", "name": "German"},
+    {"code": "pt", "name": "Portuguese"}
+  ]
+}

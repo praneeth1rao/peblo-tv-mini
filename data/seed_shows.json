@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Cosmos: A Spacetime Odyssey",
+    "description": "An exploration of how we discovered the laws of nature and found our coordinates in space and time.",
+    "slug": "cosmos-a-spacetime-odyssey",
+    "section": "Documentaries",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Standing Up in the Milky Way",
+            "description": "The Ship of the Imagination embarks on a journey through space and time.",
+            "duration": 2700,
+            "content_group": "cosmos-s1e1",
+            "language": "en"
+          },
+          {
+            "number": 2,
+            "title": "Some of the Things That Molecules Do",
+            "description": "The story of how selection and mutation have sculpted the trees of life.",
+            "duration": 2700,
+            "content_group": "cosmos-s1e2",
+            "language": "en"
+          },
+          {
+            "number": 3,
+            "title": "When Knowledge Conquered Fear",
+            "description": "How Newton and Halley discovered the laws of gravity.",
+            "duration": 2700,
+            "content_group": "cosmos-s1e3",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Planet Earth II",
+    "description": "A journey through the varied habitats of the world to witness the remarkable animals that live in them.",
+    "slug": "planet-earth-ii",
+    "section": "Nature",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Islands",
+            "description": "Wildlife on isolated islands faces unique challenges.",
+            "duration": 2940,
+            "content_group": "pe2-s1e1",
+            "language": "en"
+          },
+          {
+            "number": 2,
+            "title": "Mountains",
+            "description": "The world's highest places harbour surprising communities.",
+            "duration": 2940,
+            "content_group": "pe2-s1e2",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Chef's Table",
+    "description": "A exploration of the lives and philosophies of celebrated chefs around the world.",
+    "slug": "chefs-table",
+    "section": "Food & Culture",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Massimo Bottura",
+            "description": "Massimo Bottura of Osteria Francescana in Modena, Italy.",
+            "duration": 3300,
+            "content_group": "ct-s1e1",
+            "language": "en"
+          },
+          {
+            "number": 2,
+            "title": "Gastón Acurio",
+            "description": "Gastón Acurio of Astrid & Gastón in Lima, Peru.",
+            "duration": 3300,
+            "content_group": "ct-s1e2",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Grand Tour",
+    "description": "A motoring show featuring three former Top Gear presenters.",
+    "slug": "the-grand-tour",
+    "section": "Entertainment",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "The Holy Trinity",
+            "description": "Jeremy, Richard and James compare hybrid supercars in the Mojave Desert.",
+            "duration": 4800,
+            "content_group": "gt-s1e1",
+            "language": "en"
+          },
+          {
+            "number": 2,
+            "title": "Operation North Pole",
+            "description": "The team race to the North Pole in a special Christmas episode.",
+            "duration": 4500,
+            "content_group": "gt-s1e2",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blue Planet II",
+    "description": "A natural history documentary series exploring the marine world.",
+    "slug": "blue-planet-ii",
+    "section": "Nature",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Ocean World",
+            "description": "A journey through the ocean exploring its most spectacular habitats.",
+            "duration": 2940,
+            "content_group": "bp2-s1e1",
+            "language": "en"
+          },
+          {
+            "number": 2,
+            "title": "The Deep",
+            "description": "Exploring the deepest parts of the ocean.",
+            "duration": 2940,
+            "content_group": "bp2-s1e2",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Our Planet",
+    "description": "A nature documentary series about the planet's remaining wilderness areas.",
+    "slug": "our-planet",
+    "section": "Documentaries",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Frozen Worlds",
+            "description": "The impact of climate change on the Arctic and Antarctic.",
+            "duration": 3300,
+            "content_group": "op-s1e1",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Stranger Things",
+    "description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces.",
+    "slug": "stranger-things",
+    "section": "Entertainment",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Chapter One: The Vanishing of Will Byers",
+            "description": "On his way home from a friend's house, young Will sees something terrifying.",
+            "duration": 3000,
+            "content_group": "st-s1e1",
+            "language": "en"
+          },
+          {
+            "number": 2,
+            "title": "Chapter Two: The Weirdo on Maple Street",
+            "description": "Lucas, Mike and Dustin try to communicate with the mysterious girl they found.",
+            "duration": 3000,
+            "content_group": "st-s1e2",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Making It",
+    "description": "A crafting competition show hosted by Amy Poehler and Nick Offerman.",
+    "slug": "making-it",
+    "section": "Entertainment",
+    "seasons": [
+      {
+        "number": 1,
+        "title": "Season 1",
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Master Makers",
+            "description": "Eight crafters compete in two challenges to show off their skills.",
+            "duration": 2400,
+            "content_group": "mi-s1e1",
+            "language": "en"
+          }
+        ]
+      }
+    ]
+  }
+]
