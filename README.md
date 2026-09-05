@@ -1,3 +1,4 @@
+
 # Peblo TV Mini
 
 A full-stack streaming catalogue platform with a content management system (CMS) and a public viewer application.
@@ -263,3 +264,5 @@ Secrets (database credentials, JWT signing keys, storage credentials) should be 
 ## AI Tools Used
 
 AI coding assistance was used during the development of this project. All generated code was **reviewed, tested, modified, and accepted** only when it matched the challenge requirements. Architecture decisions — including atomic publishing with `os.replace()`, the storage abstraction layer, server-side role/permission enforcement, content group language collapse logic, and catalogue generation — were **reviewed rather than blindly accepting** generated output. Generated implementations that did not meet requirements were rewritten or discarded.
+
+
